@@ -1,6 +1,5 @@
 # tureka-website
-I Have just replicated the project of Brad Traversy with some changes
-
+I Have Just used the front end design of Brad Traversy loruki website with my own code 
 
 By following the basics of HTML and CSS i have created a simple responsive website with simple animations.
 This project is completely beginner friendly . 
